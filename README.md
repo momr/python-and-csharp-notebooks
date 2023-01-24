@@ -9,7 +9,7 @@ conda create -p .venv
 # to activate
 conda activate ./.venv
 
-# to install jupyter
+# to install jupyter numpy pytorch ... etc.
 mamba install jupyter numpy
 mamba install pytorch -c pytorch-nightly 
 ```
