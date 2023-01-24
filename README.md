@@ -1,4 +1,4 @@
-# Python Power Presentation at SLB
+# Some Random Notes on Python and C#
 
 to install mini-forge/mamba: <https://github.com/conda-forge/miniforge>
 
